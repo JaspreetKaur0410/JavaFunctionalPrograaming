@@ -62,7 +62,6 @@ public class Main {
     static class Person{
         private String name;
         private Gender gender;
-        private String abc;
 
         Person(String name, Gender gender){
             this.name = name;
